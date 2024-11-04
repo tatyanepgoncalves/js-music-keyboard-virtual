@@ -9,7 +9,7 @@ Um teclado musical virtual feito com JS Vanilla. Projeto do bootcamp da DIO em p
  
 #  Introdução 🔥
 Os usuários são capazes de:
-
+- 
 
 
 
